@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{ text-align: center;}
+
+#featured-property{text-align: center;}
+
+#nav1{text-align: center;
+  padding-left: 10px;
+padding-right: 10px;
+background-color: gray;
+ }
+
+
+
+
+#div1{width: 800px;
+ align-items: center;
+padding-left: 500px;}
+
+#div2{float: left;
+padding-left: 200px;
+background-color: red;}
+
+
+#div3{float: left;
+padding-left: 300px;
+background-color: red;}
+
+#div4{float: left;
+  padding-left: 300px;
+  background-color: red;}
+
+
+#div5{float: left;
+  padding-left: 300px;
+  padding-right: 188.8px;
+  background-color: red;}
+
+  #details{ background-color: red;}
+
+  
+
